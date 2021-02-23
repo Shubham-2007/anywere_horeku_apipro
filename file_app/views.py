@@ -38,7 +38,6 @@ import json
 import io
 from PIL import Image
 from numpy import asarray 
-
 from rest_framework.views import APIView
 from rest_framework.parsers import MultiPartParser, FormParser
 from rest_framework.response import Response
