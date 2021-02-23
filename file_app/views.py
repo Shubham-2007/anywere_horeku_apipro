@@ -323,5 +323,12 @@ class getimagefromrequest(APIView):
 #     # predicting the class
 #     res = FileAppConfig.digitmodel.predict([img])[0]
 
+
+
+
+
+
+
+
 #     return JsonResponse({"digit": str(np.argmax(res)), "acc": str(max(res))})
  
