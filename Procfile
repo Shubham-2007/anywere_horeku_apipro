@@ -1,0 +1,1 @@
+web: gunicorn apiprohost.wsgi --log-file -
